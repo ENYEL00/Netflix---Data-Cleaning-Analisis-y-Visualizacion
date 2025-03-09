@@ -54,7 +54,7 @@ Este proyecto para mi portafolio demuestra mis habilidades en limpieza, análisi
     * **Gráficos Clave:**
 
         * **Porcentaje de Tipo de Contenido creado en Netflix:**
-            * ![Grafico 1](Proyecto-Netflix/Grafico-1.png)
+            * ![Grafico 1]([Proyecto-Netflix/Grafico-1.png](https://github.com/ENYEL00/Netflix---Data-Cleaning-Analisis-y-Visualizacion/blob/e1367ecddc8b78c39afb175cf78944749db68fdf/Proyecto%20Netflix/Grafico%201.png))
             * En este grafico se puede observar que claramente el contenido que mas se encuentra en la plataforma
               es el de peliculas. Es decir, son mas las peliculas en netflix que las series, tanto las propias producciones
               como la compra de derechos de transmision.
