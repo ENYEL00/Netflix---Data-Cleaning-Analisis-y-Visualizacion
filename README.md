@@ -49,18 +49,18 @@ Este proyecto para mi portafolio demuestra mis habilidades en limpieza, análisi
 
     * **Dashboard Interactivo:**
         * Este dashboard permite explorar los datos de forma interactiva y obtener información valiosa sobre \[indicar el tema del dashboard].
-        * [![Ver Dashboard](Proyecto Netflix/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMTY2MGI4MjctZjFhNy00MmQ5LTgxZjUtMGJjYWM0NTgzMWY0IiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9&pageName=b2429c7251b581496d58)
+        * [![Ver Dashboard](Proyecto-Netflix/Dashboard.png)](https://app.powerbi.com/view?r=eyJrIjoiMTY2MGI4MjctZjFhNy00MmQ5LTgxZjUtMGJjYWM0NTgzMWY0IiwidCI6ImNkZWMyMTM0LTAzNjMtNGZkNC04MTU2LTYwMDMwMThmZjQ1MSIsImMiOjR9&pageName=b2429c7251b581496d58)
 
     * **Gráficos Clave:**
 
         * **Porcentaje de Tipo de Contenido creado en Netflix:**
-            * ![Grafico 1](Proyecto_Netflix/Grafico_1.png)
+            * ![Grafico 1](Proyecto-Netflix/Grafico-1.png)
             * En este grafico se puede observar que claramente el contenido que mas se encuentra en la plataforma
               es el de peliculas. Es decir, son mas las peliculas en netflix que las series, tanto las propias producciones
               como la compra de derechos de transmision.
 
         * **Cantidad de contenido creado por año desde el 2008:**
-            * ![Grafico 2](Proyecto_Netflix/Grafico_2.png)
+            * ![Grafico 2](Proyecto-Netflix/Grafico-2.png)
             * En este grafico se observa que la cantidad de producciones propias de Netflix empezaron a despegar alrededor
               de los años 2014 y 2015. Es decir, antes de estos años habian muy pocas produccione propias de Netflix en la
               plataforma, y la mayoria de su contenido era de otras productoras. Y es a entre los años 2018 y 2020 que se
@@ -68,7 +68,7 @@ Este proyecto para mi portafolio demuestra mis habilidades en limpieza, análisi
               (la mas alta) y 1636 el 2020.
 
         * **Proporcion de producciones creadas por pais**
-            * ![Grafico 3](Proyecto_Netflix/Grafico_3.png)
+            * ![Grafico 3](Proyecto-Netflix/Grafico-3.png)
             * En este grafico se observa un mapa mundi, con la proporcion de la cantidad de producciones creadas por Pais.
               En resumen, mientras mas grande es el circulo que rodea al pais, quiere decir que mayor cantidad de
               producciones hay en la plataforma de ese pais. Por ende se detalla que Estados Unidos tiene la mayor
@@ -79,7 +79,7 @@ Este proyecto para mi portafolio demuestra mis habilidades en limpieza, análisi
               industrias mas grandes del entretenimiento.
 
         * * **Comparacion de Tipo de contenido creado por Pais**
-            * ![Grafico 4](Proyecto_Netflix/Grafico_4.png)
+            * ![Grafico 4](Proyecto-Netflix/Grafico-4.png)
             * En este grafico, se observa una tendencia similar a la del grafico anterior, con USA, la India y el Reino
               Unido, siendo los lideres en esta industria. Y es de destacar que cada una de las industrias en este podio
               apuesta mayormente por peliculas, en vez de series. Y en su mayoria esto se ve asi en casi todos los paises.
@@ -93,18 +93,18 @@ Este proyecto para mi portafolio demuestra mis habilidades en limpieza, análisi
               escenarios, actores, directores, entre otros.
               
         * * **Top 10 Directores**
-            * ![Grafico 5](Proyecto_Netflix/Grafico_5.png)
+            * ![Grafico 5](Proyecto-Netflix/Grafico-5.png)
             * En este grafico se puede observar el ranking de los Top 10 Directores que mas producciones han realizado
               en Netflix. Se distingue una preferencia por la direccion y produccion de peliculas.
               
         * * **Top 10 Generos**
-            * ![Grafico 6](Proyecto_Netflix/Grafico_6.png)
+            * ![Grafico 6](Proyecto-Netflix/Grafico-6.png)
             * En este grafico se puede observar el ranking de los Top 10 Generos mas producidos en la plataforma.
               Se puede ver que en su mayoria son peliculas de Drama y comedia, mezclados con otros generos como
               Infantil y familiar, y peliculas romanticas. Pero los generos mas predominantes son de Drama y Comedia.
 
         * * **Tipo de contenido agregado por año desde 2008**
-            * ![Grafico 9](Proyecto_Netflix/Grafico_9.png)
+            * ![Grafico 9](Proyecto-Netflix/Grafico-9.png)
             * En este grafico se puede observar la tendencia de las producciones agregadas a traves de los años a la
               plataforma. En este grafico, estamos tomando en cuenta producciones tanto propias, como de terceros, y se
               separa la linea dependiendo si es Serie o Pelicula. La tendencia mas pronunciada es la de las peliculas
